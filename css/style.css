@@ -67,7 +67,7 @@ left: 200px;
 }
 .youtube { 
     position: absolute;
-    left: 100px;
+    left: 50px;
     top: 1100px;
 }
 .top { text-align:center; line-height:45px; position:fixed; bottom:20px; right:20px; width:45px; height:45px; border-radius:50%; border:1px solid #ffffff; }
