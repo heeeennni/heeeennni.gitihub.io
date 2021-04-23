@@ -1,0 +1,72 @@
+/*22161152_박인휘*/
+* { margin: 0; padding: 0; color:#ffffff;}
+li { list-style: none; }
+a { text-decoration:none; }
+
+html,body { background-color: #080808; font-family: 을유1945; scroll-behavior: smooth;}
+.logo { float: left; }
+.nav { float: right;}
+#wrap{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: #080808;
+}
+
+.top-nav { z-index:1000; margin-top:60px;
+    position: fixed; width:100%; }
+
+Header { padding-left: 100px; padding-right: 100px; }
+header:after { content:'';display:block;clear:both; }
+.nav li { float: left; }
+.nav:after { content:'';display:block;clear:both; }
+.nav01 { margin-right: 136px;}
+#bgi{
+    width: 100%;
+  
+}
+#bgi img{
+    width: 100%;
+}
+#text{
+    position: absolute;
+    top:75%;
+    left: 50%;
+    line-height: 30px;
+}
+.i1{
+    margin-left: 40px;
+    height: 250px;
+    background-color:;
+    display: inline-block;
+}
+#imgwrap{
+    position:absolute;
+top: 200px;
+left: 200px;
+}
+#t1{
+    position:absolute;
+    left: 950px;
+    top: 270px;
+}
+#t2{
+    position: absolute;
+    left: 950px;
+    top: 330px;
+}
+#t3{
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+#t4{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+.youtube { 
+    margin : 500px auto 0 auto;
+    width:1200px;
+}
+.top { text-align:center; line-height:45px; position:fixed; bottom:20px; right:20px; width:45px; height:45px; border-radius:50%; border:1px solid #ffffff; }
